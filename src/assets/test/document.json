@@ -1,0 +1,387 @@
+{
+  "_class": "document",
+  "do_objectID": "CCF722E0-0179-4EB7-ACE1-A3E3F219048E",
+  "colorSpace": 1,
+  "currentPageIndex": 0,
+  "assets": {
+    "_class": "assetCollection",
+    "do_objectID": "CAFB9667-F5A9-4DE2-9EAB-28C8CB8B3B29",
+    "images": [],
+    "colorAssets": [],
+    "exportPresets": [],
+    "gradientAssets": [],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {}
+    },
+    "colors": [],
+    "gradients": []
+  },
+  "fontReferences": [
+    {
+      "_class": "fontReference",
+      "do_objectID": "0BF6BE46-5EC6-481C-8C0A-28135EF9E8F6",
+      "fontFamilyName": "Montserrat",
+      "fontFileName": "Montserrat-Italic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Montserrat-Italic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "2541182C-DDD8-42B8-9BAA-76DB63139740",
+      "fontFamilyName": "Montserrat",
+      "fontFileName": "Montserrat-MediumItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Montserrat-MediumItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "3506FA7F-BBCE-4A3F-8773-652DE8794E0F",
+      "fontFamilyName": "Montserrat",
+      "fontFileName": "Montserrat-LightItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Montserrat-LightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "3E05D18B-0F98-4DD8-B184-5FF24A7678D4",
+      "fontFamilyName": "Montserrat",
+      "fontFileName": "Montserrat-ExtraLight.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Montserrat-ExtraLight"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "570AE4CC-350A-4ABB-8D09-BD2A4706B4EA",
+      "fontFamilyName": "Montserrat",
+      "fontFileName": "Montserrat-ExtraBoldItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Montserrat-ExtraBoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "5B3F1CF2-84C0-4A5E-A8E4-70B149EEB113",
+      "fontFamilyName": "Montserrat",
+      "fontFileName": "Montserrat-ExtraLightItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Montserrat-ExtraLightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "5F78C0AA-6D8B-4234-BC87-9BFA83CC049D",
+      "fontFamilyName": "Montserrat",
+      "fontFileName": "Montserrat-ThinItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Montserrat-ThinItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "5F9018D7-F07E-4583-8E00-9BB10BA03C22",
+      "fontFamilyName": "Montserrat",
+      "fontFileName": "Montserrat-SemiBold.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "Montserrat-SemiBold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "7DEE2BA8-C9FE-49EA-972A-6F05F1968D23",
+      "fontFamilyName": "Montserrat",
+      "fontFileName": "Montserrat-SemiBoldItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Montserrat-SemiBoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "8087E0C5-80E6-4890-B5D8-98BEE1F01F28",
+      "fontFamilyName": "Montserrat",
+      "fontFileName": "Montserrat-Bold.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Montserrat-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "948C3124-F827-4D62-9CDD-93EC8F6A63D4",
+      "fontFamilyName": "Montserrat",
+      "fontFileName": "Montserrat-Medium.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "Montserrat-Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "AA3B9838-B742-4A47-9BE5-077558732CDA",
+      "fontFamilyName": "Montserrat",
+      "fontFileName": "Montserrat-Thin.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Montserrat-Thin"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "B67519BA-8E3D-4D9A-8440-7F6ECFA1E32D",
+      "fontFamilyName": "Montserrat",
+      "fontFileName": "Montserrat-BoldItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Montserrat-BoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "C79EE6F1-0BBF-4AA1-A1E7-B5275C15A39C",
+      "fontFamilyName": "Montserrat",
+      "fontFileName": "Montserrat-Black.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Montserrat-Black"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "D8A04418-E88B-49C1-9707-C3A3433C2E6E",
+      "fontFamilyName": "Montserrat",
+      "fontFileName": "Montserrat-ExtraBold.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Montserrat-ExtraBold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "E2EFBE95-CDB2-45CE-B2EF-F67EF0743B77",
+      "fontFamilyName": "Montserrat",
+      "fontFileName": "Montserrat-BlackItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Montserrat-BlackItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "E3F6EC5A-92D3-4050-B9CE-655BD71F5BA3",
+      "fontFamilyName": "Montserrat",
+      "fontFileName": "Montserrat-Regular.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Montserrat-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "F04CAD3E-FD3E-4CE3-BEF7-309997B49ACF",
+      "fontFamilyName": "Montserrat",
+      "fontFileName": "Montserrat-Light.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Montserrat-Light"
+      ]
+    }
+  ],
+  "foreignLayerStyles": [],
+  "foreignSwatches": [],
+  "foreignSymbols": [],
+  "foreignTextStyles": [],
+  "layerStyles": {
+    "_class": "sharedStyleContainer",
+    "do_objectID": "6595E3B0-F6F5-4E0C-81BB-94383CB2941D",
+    "objects": [
+      {
+        "_class": "sharedStyle",
+        "do_objectID": "EC609E37-19F8-4773-B934-5CB894EAD507",
+        "name": "Base\/Color\/Pink Style",
+        "value": {
+          "_class": "style",
+          "do_objectID": "119AF7C3-859A-444A-AB07-AD6981E9A555",
+          "endMarkerType": 0,
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1,
+          "blur": {
+            "_class": "blur",
+            "isEnabled": false,
+            "center": "{0.5, 0.5}",
+            "motionAngle": 0,
+            "radius": 10,
+            "saturation": 1,
+            "type": 0
+          },
+          "borderOptions": {
+            "_class": "borderOptions",
+            "isEnabled": true,
+            "dashPattern": [],
+            "lineCapStyle": 0,
+            "lineJoinStyle": 0
+          },
+          "borders": [
+            {
+              "_class": "border",
+              "isEnabled": false,
+              "fillType": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 0,
+                "opacity": 1
+              },
+              "gradient": {
+                "_class": "gradient",
+                "elipseLength": 0,
+                "from": "{0.5, 0}",
+                "gradientType": 0,
+                "to": "{0.5, 1}",
+                "stops": [
+                  {
+                    "_class": "gradientStop",
+                    "position": 0,
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 1,
+                      "green": 1,
+                      "red": 1
+                    }
+                  },
+                  {
+                    "_class": "gradientStop",
+                    "position": 1,
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 0,
+                      "green": 0,
+                      "red": 0
+                    }
+                  }
+                ]
+              },
+              "position": 1,
+              "thickness": 1
+            }
+          ],
+          "colorControls": {
+            "_class": "colorControls",
+            "isEnabled": false,
+            "brightness": 0,
+            "contrast": 1,
+            "hue": 0,
+            "saturation": 1
+          },
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 1
+          },
+          "fills": [
+            {
+              "_class": "fill",
+              "isEnabled": true,
+              "fillType": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.49803922,
+                "green": 0.19607843,
+                "red": 0.95686275
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 0,
+                "opacity": 1
+              },
+              "gradient": {
+                "_class": "gradient",
+                "elipseLength": 0,
+                "from": "{0.5, 0}",
+                "gradientType": 0,
+                "to": "{0.5, 1}",
+                "stops": [
+                  {
+                    "_class": "gradientStop",
+                    "position": 0,
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 1,
+                      "green": 1,
+                      "red": 1
+                    }
+                  },
+                  {
+                    "_class": "gradientStop",
+                    "position": 1,
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 0,
+                      "green": 0,
+                      "red": 0
+                    }
+                  }
+                ]
+              },
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "innerShadows": [],
+          "shadows": []
+        }
+      }
+    ]
+  },
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "do_objectID": "21B2883C-E57E-436E-9603-5DDCA818035E",
+    "objects": []
+  },
+  "layerTextStyles": {
+    "_class": "sharedTextStyleContainer",
+    "do_objectID": "24222137-C3AA-4168-9F7F-BE3B1AD4E69F",
+    "objects": []
+  },
+  "pages": [
+    {
+      "_class": "MSJSONFileReference",
+      "_ref_class": "MSImmutablePage",
+      "_ref": "pages\/05BBF34F-AA5A-4B22-983B-C73E28D51190"
+    }
+  ],
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "do_objectID": "E52C9951-ACF9-49CC-A54F-61B4109A0800",
+    "objects": []
+  },
+  "documentState": {
+    "_class": "documentState"
+  }
+}
