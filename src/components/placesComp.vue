@@ -1,14 +1,14 @@
 <template>
   <div class="comp">
-    <img src="">
+    <img :src="item">
     <div class="right">
-      <div class="heading bd">
-        <p>Place Name</p>
+      <div class="heading">
+        <p>{{ data.title }}</p>
         <img :src="more">
       </div>
       <div class="icons">
-        <div><p>Chiggago</p></div>
-        <div><img :src="heart" ></div>
+        <div><p>{{ data.location }}</p></div>
+        <div class="divide"><i><img :src="heart" ></i><span>{{ data.meta.likes }}</span></div>
         <div><img :src="chats"></div>
       </div>
     </div>
@@ -19,13 +19,19 @@
 import more from '../assets/images/more.svg';
 import heart from '../assets/images/love.svg';
 import chats from '../assets/images/chat.svg';
+import item from '../assets/images/item.png';
+
 export default {
   name: 'PlacesComp',
+  props : {
+    data : {}
+  },
   setup(){
     return{
       more,
       heart,
-      chats
+      chats,
+      item
     }
   }
 }
@@ -39,6 +45,7 @@ export default {
   background: #FFFFFF;
   box-shadow: 0 3px 10px rgba(0 ,0, 0 ,0.2);
   border-radius: 10px;
+  margin-top: 10px;
   img{
     width: 100px;
     height: 100px;
@@ -63,7 +70,17 @@ export default {
         height: 25px;
         margin-top: 10px;
       }
+      .divide{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        text-align: center;
+        grid-column-gap: 10px;
+        span{
+          margin-top: 16px;
+        }
+      }
     }
   }
+
 }
 </style>

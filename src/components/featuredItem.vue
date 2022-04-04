@@ -32,7 +32,7 @@ import heart from '../assets/images/love.svg';
 export default {
   name: 'FeaturedItem',
   props : {
-    data : []
+    data : {}
   },
   setup(){
     return{
