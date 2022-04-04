@@ -1,0 +1,143 @@
+{
+  "featured": [
+    {
+      "price": 967,
+      "location": "New York",
+      "title": "Red Ballet",
+      "images": {
+        "145": "https://www.afrihost.com/resources/fedev/images/featured-01.jpg",
+        "290": "https://www.afrihost.com/resources/fedev/images/featured-01@2x.jpg"
+      },
+      "meta": {
+        "likes": 4000,
+        "weather": {
+          "temperature": 22,
+          "conditions": "Sunny"
+        }
+      }
+    },
+    {
+      "price": 589,
+      "location": "philly",
+      "title": "Mexico City Festival",
+      "images": {
+        "145": "https://www.afrihost.com/resources/fedev/images/featured-02.jpg",
+        "290": "https://www.afrihost.com/resources/fedev/images/featured-02@2x.jpg"
+      },
+      "meta": {
+        "likes": "1256",
+        "weather": {
+          "temperature": 33,
+          "conditions": "Sunny"
+        }
+      }
+    },
+    {
+      "price": 1083,
+      "location": "Georgia",
+      "title": "Green Lands Hotel & Spa",
+      "images": {
+        "145": "https://www.afrihost.com/resources/fedev/images/featured-03.jpg",
+        "290": "https://www.afrihost.com/resources/fedev/images/featured-03@2x.jpg"
+      },
+      "meta": {
+        "likes": 7343,
+        "weather": {
+          "temperature": 25,
+          "conditions": "Sunny"
+        }
+      }
+    },
+    {
+      "price": 123,
+      "location": "Okland City",
+      "title": "Elya's Live",
+      "images": {
+        "145": "https://www.afrihost.com/resources/fedev/images/featured-04.jpg",
+        "290": "https://www.afrihost.com/resources/fedev/images/featured-04@2x.jpg"
+      },
+      "meta": {
+        "likes": 2302,
+        "weather": {
+          "temperature": 18,
+          "conditions": "Rainy"
+        }
+      }
+    }
+  ],
+  "places": {
+    "featured": {},
+    "other": [
+      {
+        "title": "Hotel Blue Lagoon",
+        "price": 967,
+        "price_reduced": 234,
+        "location": "Chicago",
+        "images": {
+          "145": "https://www.afrihost.com/resources/fedev/images/place-secondary-01.jpg",
+          "290": "https://www.afrihost.com/resources/fedev/images/place-secondary-01@2x.jpg"
+        },
+        "meta": {
+          "likes": 4211,
+          "comments": 100
+        }
+      },
+      {
+        "title": "Local Museum",
+        "price": 1024,
+        "price_reduced": 802,
+        "location": "Brooklyn",
+        "images": {
+          "145": "https://www.afrihost.com/resources/fedev/images/place-secondary-02.jpg",
+          "290": "https://www.afrihost.com/resources/fedev/images/place-secondary-02@2x.jpg"
+        },
+        "meta": {
+          "likes": 2012,
+          "comments": 76
+        }
+      },
+      {
+        "title": "Mountain Top Resort",
+        "price": 899,
+        "price_reduced": 799,
+        "location": "",
+        "images": {
+          "145": "https://www.afrihost.com/resources/fedev/images/place-secondary-03.jpg",
+          "290": "https://www.afrihost.com/resources/fedev/images/place-secondary-03@2x.jpg"
+        },
+        "meta": {
+          "likes": 500,
+          "comments": 21
+        }
+      },
+      {
+        "title": "Bay View Day Spay & Retreat",
+        "price": 1600,
+        "price_reduced": 999,
+        "location": "Milan",
+        "images": {
+          "145": "https://www.afrihost.com/resources/fedev/images/place-secondary-04.jpg",
+          "290": "https://www.afrihost.com/resources/fedev/images/place-secondary-04@2x.jpg"
+        },
+        "meta": {
+          "likes": 1593,
+          "comments": 84
+        }
+      },
+      {
+        "title": "Local Inn",
+        "price": 450,
+        "price_reduced": 399,
+        "location": "Washington",
+        "images": {
+          "145": "https://www.afrihost.com/resources/fedev/images/place-secondary-05.jpg",
+          "290": "https://www.afrihost.com/resources/fedev/images/place-secondary-05@2x.jpg"
+        },
+        "meta": {
+          "likes": 1001,
+          "comments": 0
+        }
+      }
+    ]
+  }
+}

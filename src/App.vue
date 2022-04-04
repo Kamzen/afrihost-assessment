@@ -1,23 +1,36 @@
 <template>
   <TopNavigation />
   <SlideShow />
+  <FeaturedComp />
+  <br />
+  <hr>
+  <br />
+  <PlacesToVisit />
+  <br />
+  <br />
+  <br />
 </template>
 
 <script>
 import TopNavigation from '@/components/topNavigation';
 import SlideShow from "@/components/slideShow";
-
+import FeaturedComp from "@/components/featuredComp";
+import PlacesToVisit from "@/components/placesToVisit";
 export default {
   name: 'App',
   components: {
     TopNavigation,
-    SlideShow
+    SlideShow,
+    FeaturedComp,
+    PlacesToVisit
   }
 }
 </script>
 
 <style>
-
+  template{
+    background: rgba(250, 250, 250, 1);
+  }
   *{
     box-sizing: border-box;
   }
